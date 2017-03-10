@@ -1,0 +1,25 @@
+{
+  "name": "codeigniter-starterkit",
+  "version": "1.0.0",
+  "description": "staterkit codeigniter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build:dev": "webpack --config webpack.config.js",
+    "build:dev:watch": "webpack -w --config webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhtarudinsiregar/codeigniter-starterkit.git"
+  },
+  "keywords": [],
+  "author": "muhtarudinsiregar <muhtarudinsiregar93@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muhtarudinsiregar/codeigniter-starterkit/issues"
+  },
+  "homepage": "https://github.com/muhtarudinsiregar/codeigniter-starterkit#readme",
+  "devDependencies": {
+    "webpack": "^2.2.1"
+  }
+}
