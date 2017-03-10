@@ -3,7 +3,10 @@
 ## Cheatsheet
 
 ### Code Style
-in Windows, run `vendor\bin\phpcs -h` for code style
+in Windows, run `vendor\bin\phpcs --standard=PSR2 application/controllers` for code style.
+
+### Dump
+You can use `dump($foo)` for better var_dump. 
 
 * [ ] Auth
 * [X] VarDumper
@@ -12,3 +15,4 @@ in Windows, run `vendor\bin\phpcs -h` for code style
 * [ ] PHP enum
 * [ ] PHPDebugbar
 * [ ] PHPUnit
+* [ ] Gulp/Webpack
