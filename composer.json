@@ -20,6 +20,6 @@
 	"require-dev": {
 		"mikey179/vfsStream": "1.1.*",
 		"squizlabs/php_codesniffer": "^2.8",
-		"phpunit/phpunit": "^6.0"
+		"kenjis/ci-phpunit-test": "^0.14.0"
 	}
 }
