@@ -24,4 +24,5 @@ You can use `dd($foo)` for better var_dump.
 * [ ] Gulp/Webpack
 
 ## References
-https://github.com/kenjis/ci-phpunit-test 
+ https://github.com/kenjis/ci-phpunit-test
+ http://codeception.com/quickstart
