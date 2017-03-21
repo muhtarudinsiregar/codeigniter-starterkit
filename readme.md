@@ -20,9 +20,10 @@ You can use `dd($foo)` for better var_dump.
 * [ ] Twig
 * [ ] PHP enum
 * [ ] PHPDebugbar
-* [X] PHPUnit
-* [ ] Gulp/Webpack
+* [X] Codeception
+* [ ] Laravel Elixir
 
 ## References
  https://github.com/kenjis/ci-phpunit-test
+	
  http://codeception.com/quickstart
