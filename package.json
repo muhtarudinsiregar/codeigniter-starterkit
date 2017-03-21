@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/muhtarudinsiregar/codeigniter-starterkit#readme",
   "devDependencies": {
-    "webpack": "^2.2.1"
+    "gulp": "^3.9.1",
+    "laravel-elixir": "^6.0.0-15"
   }
 }
