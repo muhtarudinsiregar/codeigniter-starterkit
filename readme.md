@@ -2,7 +2,7 @@
 
 ## Installation
  1. `composer install`.
- 2. In root, run command ` php vendor/kenjis/ci-phpunit-test/install.php`.
+ 2. list command run `php ci`
 
 ## Cheatsheet
 
@@ -12,7 +12,6 @@ in Windows, run `vendor\bin\phpcs --standard=PSR2 application/controllers` for c
 ### Dump
 You can use `dd($foo)` for better var_dump. 
 
-
 ## Todo
 * [ ] Auth
 * [X] VarDumper
@@ -21,8 +20,15 @@ You can use `dd($foo)` for better var_dump.
 * [ ] PHP enum
 * [ ] PHPDebugbar
 * [X] Codeception
-* [ ] Laravel Elixir
-* [ ] Phinx for Migrate and Seeder
+* [ ] Laravel Mix
+* [X] Phinx for Migrate and Seeder
+    * [ ] User Table
+* [X] Symfony/console
+    * [ ] Make Console command
+    * [ ] Make Code Style command
+    * [X] Make Migration command
+    * [ ] Make Rollback command
+    * [ ] Make Seed Run command
 
 ## References
  https://github.com/kenjis/ci-phpunit-test
