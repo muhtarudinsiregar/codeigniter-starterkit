@@ -1,0 +1,12 @@
+#!/usr/bin/env php
+<?php
+
+require_once 'vendor\autoload.php';
+// Create the Application
+$application = new Symfony\Component\Console\Application;
+
+// register all command
+$application->add(new App\Console\MigrateCommand);
+
+// Run it
+$application->run();
