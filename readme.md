@@ -1,8 +1,9 @@
 # Codeigniter Starterkit
 
 ## Installation
- 1. `composer install`.
- 2. list command run `php ci`
+ 1. clone this repo `git clone https://github.com/muhtarudinsiregar/codeigniter-starterkit.git`
+ 2. then run command `composer install`.
+ 3. for available list command, run `php ci`
 
 ## Cheatsheet
 
