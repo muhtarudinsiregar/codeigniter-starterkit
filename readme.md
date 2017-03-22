@@ -22,6 +22,7 @@ You can use `dd($foo)` for better var_dump.
 * [ ] PHPDebugbar
 * [X] Codeception
 * [ ] Laravel Elixir
+* [ ] Phinx for Migrate and Seeder
 
 ## References
  https://github.com/kenjis/ci-phpunit-test
