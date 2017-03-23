@@ -28,7 +28,8 @@ You can use `dd($foo)` for better var_dump.
     * [ ] Make Console command
     * [ ] Make Code Style command
     * [X] Make Migration command
-    * [ ] Make Rollback command
+    * [X] Make Rollback command
+    * [ ] Make Seed command
     * [ ] Make Seed Run command
 
 ## References
