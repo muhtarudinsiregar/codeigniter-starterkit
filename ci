@@ -9,6 +9,7 @@ $application = new Symfony\Component\Console\Application;
 $application->add(new App\Command\MigrateCommand);
 $application->add(new App\Command\MigrationCommand);
 $application->add(new App\Command\RollbackCommand);
+$application->add(new App\Command\SeedCommand);
 
 // Run it
 $application->run();
