@@ -10,6 +10,7 @@ $application->add(new Application\Commands\MigrateCommand);
 $application->add(new Application\Commands\MigrationCommand);
 $application->add(new Application\Commands\RollbackCommand);
 $application->add(new Application\Commands\SeedCommand);
+$application->add(new Application\Commands\StartCommand);
 
 // Run it
 $application->run();
