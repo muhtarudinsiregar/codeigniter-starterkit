@@ -6,10 +6,10 @@ require_once 'vendor\autoload.php';
 $application = new Symfony\Component\Console\Application;
 
 // register all command
-$application->add(new App\Command\MigrateCommand);
-$application->add(new App\Command\MigrationCommand);
-$application->add(new App\Command\RollbackCommand);
-$application->add(new App\Command\SeedCommand);
+$application->add(new Application\Commands\MigrateCommand);
+$application->add(new Application\Commands\MigrationCommand);
+$application->add(new Application\Commands\RollbackCommand);
+$application->add(new Application\Commands\SeedCommand);
 
 // Run it
 $application->run();
