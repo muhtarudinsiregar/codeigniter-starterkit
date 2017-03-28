@@ -21,18 +21,19 @@ You can use `dd($foo)` for better var_dump.
 * [ ] PHP enum
 * [ ] PHPDebugbar
 * [X] Codeception
-* [ ] Laravel Mix
+* [X] Laravel Elixir
 * [X] Phinx for Migrate and Seeder
     * [ ] User Table
 * [X] Symfony/console
     * [ ] Make Console command
-    * [ ] Make Code Style command
     * [X] Make Migration command
     * [X] Make Rollback command
     * [X] Make Seed command
     * [ ] Make Seed Run command
 
 ## References
+ https://laravel.com/docs/5.2/elixir#javascript
+
  https://github.com/kenjis/ci-phpunit-test
 	
  http://codeception.com/quickstart
