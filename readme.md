@@ -29,7 +29,7 @@ You can use `dd($foo)` for better var_dump.
     * [X] Make Migration command
     * [X] Make Rollback command
     * [X] Make Seed command
-    * [ ] Make Seed Run command
+    * [X] Make Seed Run command
 
 ## References
  https://laravel.com/docs/5.2/elixir#javascript
