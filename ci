@@ -11,6 +11,7 @@ $application->add(new Application\Commands\MigrationCommand);
 $application->add(new Application\Commands\RollbackCommand);
 $application->add(new Application\Commands\SeedCommand);
 $application->add(new Application\Commands\StartCommand);
+$application->add(new Application\Commands\SeedRunCommand);
 
 // Run it
 $application->run();
