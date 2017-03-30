@@ -27,6 +27,14 @@ class UsersTable extends AbstractMigration
      */
     public function change()
     {
-
+        $table = $this->table('users');
+        $table->addColumn('name', 'string')
+              ->addColumn('email', 'string')
+              ->addColumn('username', 'string')
+              ->addColumn('password', 'string')
+              ->addColumn('created_at', 'timestamp', array('default' => 'CURRENT_TIMESTAMP'))
+              ->addColumn('updated_at', 'timestamp', array('default' => 'CURRENT_TIMESTAMP'))
+              ->addIndex(array('username', 'email'), array('unique' => true))
+              ->create();
     }
 }
