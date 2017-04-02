@@ -18,12 +18,10 @@ You can use `dd($foo)` for better var_dump.
 * [X] VarDumper
 * [X] squizlabs/PHP_CodeSniffer
 * [ ] Twig
-* [ ] PHP enum
-* [ ] PHPDebugbar
 * [X] Codeception
 * [X] Laravel Elixir
 * [X] Phinx for Migrate and Seeder
-    * [ ] User Table
+    * [X] User Table
 * [X] Symfony/console
     * [ ] Make Console command
     * [X] Make Migration command
@@ -34,6 +32,8 @@ You can use `dd($foo)` for better var_dump.
 ## References
  https://laravel.com/docs/5.2/elixir#javascript
 
- https://github.com/kenjis/ci-phpunit-test
-	
  http://codeception.com/quickstart
+
+ https://symfony.com/doc/current/components/var_dumper.html
+ 
+ https://symfony.com/doc/current/components/console.html
