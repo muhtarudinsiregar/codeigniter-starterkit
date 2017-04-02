@@ -23,7 +23,7 @@ You can use `dd($foo)` for better var_dump.
 * [X] Phinx for Migrate and Seeder
     * [X] User Table
 * [X] Symfony/console
-    * [ ] Make Console command
+    * [X] Make Console command
     * [X] Make Migration command
     * [X] Make Rollback command
     * [X] Make Seed command
@@ -35,5 +35,5 @@ You can use `dd($foo)` for better var_dump.
  http://codeception.com/quickstart
 
  https://symfony.com/doc/current/components/var_dumper.html
- 
+
  https://symfony.com/doc/current/components/console.html
