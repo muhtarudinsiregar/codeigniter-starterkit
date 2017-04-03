@@ -11,7 +11,7 @@
 in Windows, run `vendor\bin\phpcs --standard=PSR2 application/controllers` for code style.
 
 ### Dump
-You can use `dd($foo)` for better var_dump. 
+You can use `dd($foo)` for better var_dump.
 
 ## Todo
 * [ ] Auth
@@ -28,6 +28,9 @@ You can use `dd($foo)` for better var_dump.
     * [X] Make Rollback command
     * [X] Make Seed command
     * [X] Make Seed Run command
+    * [ ] Make controllers command
+    * [ ] Make models command
+    * [ ] Make App install command
 
 ## References
  https://laravel.com/docs/5.2/elixir#javascript
