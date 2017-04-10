@@ -18,7 +18,7 @@ You can use `dd($foo)` for better var_dump.
 * [X] VarDumper
 * [ ] Input
 * [X] squizlabs/PHP_CodeSniffer
-* [ ] Twig
+* [x] Twig
 * [X] Codeception
 * [X] Laravel Elixir
 * [X] Phinx for Migrate and Seeder
