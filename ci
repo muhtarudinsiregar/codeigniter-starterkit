@@ -13,6 +13,7 @@ $application->add(new Application\Commands\RollbackCommand);
 $application->add(new Application\Commands\SeedCommand);
 $application->add(new Application\Commands\StartCommand);
 $application->add(new Application\Commands\SeedRunCommand);
+$application->add(new Application\Commands\MakeControllerCommand);
 
 // Run it
 $application->run();
