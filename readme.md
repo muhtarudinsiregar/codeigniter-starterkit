@@ -30,7 +30,7 @@ You can use `dd($foo)` for better var_dump.
     * [X] Make Seed command
     * [X] Make Seed Run command
     * [x] Make controllers command
-    * [ ] Make models command
+    * [x] Make models command
 
 ## References
  https://laravel.com/docs/5.2/elixir#javascript
