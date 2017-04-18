@@ -40,3 +40,5 @@ You can use `dd($foo)` for better var_dump.
  https://symfony.com/doc/current/components/var_dumper.html
 
  https://symfony.com/doc/current/components/console.html
+	
+	http://docs.phinx.org/en/latest/migrations.html
