@@ -16,8 +16,8 @@
 		"codeception/codeception": "^2.2",
 		"symfony/console": "^3.2",
 		"robmorgan/phinx": "^0.8.0",
-		"myclabs/php-enum": "^1.5",
-		"kenjis/codeigniter-ss-twig": "^0.2.1"
+		"kenjis/codeigniter-ss-twig": "^0.2.1",
+		"rappasoft/laravel-helpers": "dev-master"
 	},
 	"suggest": {
 		"paragonie/random_compat": "Provides better randomness in PHP 5.x"
