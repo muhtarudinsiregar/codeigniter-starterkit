@@ -16,7 +16,6 @@ You can use `dd($foo)` for better var_dump.
 ## Todo
 * [ ] Auth
 * [X] VarDumper
-* [ ] Input
 * [X] squizlabs/PHP_CodeSniffer
 * [x] Twig
 * [X] Codeception
